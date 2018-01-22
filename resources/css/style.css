@@ -1,0 +1,31 @@
+h1 {
+  font-size: 100px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../../resources/images/pattern.jpeg");
+}
+h3,
+p {
+  font-family: Helvetica;
+}
+.sections {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+.mediumspringgreen {
+  background-color: mediumspringgreen;
+}
+.lightcoral {
+  background-color: lightcoral;
+}
+.skyblue {
+  background-color: skyblue;
+}
+.blue {
+  color: blue;
+  font-weight: bold;
+}
